@@ -26,6 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+Inline equation: $E = mc^2$
+
+Display equation:
+$$\oint_{\partial\Omega} \omega = \int_\Omega d\omega$$
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
