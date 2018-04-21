@@ -29,6 +29,7 @@ Syntax highlighted code block
 Inline equation: $E = mc^2$
 
 Display equation:
+
 $$\oint_{\partial\Omega} \omega = \int_\Omega d\omega$$
 
 
