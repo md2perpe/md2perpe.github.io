@@ -1,3 +1,4 @@
 [submodule "luffarschack"]
 	path = luffarschack
-	url = ./luffarschack
+	url = git@github.com:md2perpe/luffarschack.git
+
